@@ -1,0 +1,21 @@
+12) a) 
+
+Class player herite de la class mobile  
+class mobile
+
+class mobs qui est une extention de mobile
+
+Ajouter x , y (ligne, col)
+Var image type string qui reprensente le perso 
+Un int appeler niveau vie qui represente la vie du perso
+
+14)
+A) Class map
+
+14) b) var random
+metho gen carte simple
+
+c) metho gen carte complexe 
+qui renvoie la carte avec les images 
+
+

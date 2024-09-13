@@ -1,0 +1,54 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+hide empty members
+left to right direction
+class Grille
+
+class Ressource{
+nom : string
+image : string
+}
+
+class Mobile{
+nom : string
+image : string
+x : int
+y : int
+v/x : int
+----
+
+}
+
+class Map{
+}
+
+class Game{
+void start() :  void
+void stop() : void
+void pause() : void
+void resume() : void
+void movePlayer(x : int, y : int) : void
+getRessource(x : int , y : int) :  Ressource
+}
+
+class Mob{
+}
+
+class Player{
+}
+
+Grille *-- "1..*" Ressource
+
+Grille *-- "0..1" Case
+Game *-- Grille
+Mobile *-- Player
+Game *-- Player
+Mobile *-- Mob
+Game *-- Mob
+Ressource *-- Game
+Case *-- Ressource
+Map *-- Grille
+Game *-- Map
+
+@enduml

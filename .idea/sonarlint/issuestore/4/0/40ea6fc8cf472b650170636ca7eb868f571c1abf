@@ -1,0 +1,15 @@
+
+Ã
+java:S1186;"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ï¿×8×İúÍû1J$a1b1ee92-e1b6-4edf-bff8-224fb4a5d246
+Ä
+java:S1186@"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(’Ş ¦8×İúÍû1J$6b89b023-c614-4899-84aa-bd23fea69ce4
+ 
+java:S1450'"]Remove the "healthProperty" field and declare it as a local variable in the relevant methods.(úŠ¹¾8ÙİúÍû1J$8d5418e8-2223-428c-a540-242db5114ab5
+•
+java:S3776v"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.( ¼Í½8åİúÍû1J$6f7f9cc9-ec8a-4fe0-a0be-568944f835f2
+v
+java:S1128".Remove this unused import 'java.security.Key'.(ŞÃ“úÿÿÿÿ8ø„°Îû1J$78ef95ec-b4c9-4f10-8a30-6547d1813fca
+u
+java:S1068'"2Remove this unused "healthProperty" private field.(úŠ¹¾8êİúÍû1J$adc01450-5d31-41ec-980a-82a6804bd282
+s
+java:S1068s"0Remove this unused "ifShiftPress" private field.(’ı™8êİúÍû1J$2d38f623-7892-4b3f-8771-93ae5ea549f1
